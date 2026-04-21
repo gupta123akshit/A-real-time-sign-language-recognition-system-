@@ -1,1 +1,0 @@
-WORDS = ["hello", "good", "bad"]
